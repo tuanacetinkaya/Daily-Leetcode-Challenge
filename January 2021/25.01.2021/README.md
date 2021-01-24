@@ -1,1 +1,1 @@
-https://github.com/tuanacetinkaya/Daily-Leetcode-Challenge
+https://leetcode.com/problems/split-a-string-in-balanced-strings/
