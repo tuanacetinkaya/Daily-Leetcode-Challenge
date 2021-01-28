@@ -29,7 +29,7 @@ public:
 		{
 			decimal_value += head->val * pow(2, list_size);
 			head = head->next;
-            list_size--;
+           	        list_size--;
 		}
 		return decimal_value;
 	}
