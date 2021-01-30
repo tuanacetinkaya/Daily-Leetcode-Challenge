@@ -1,4 +1,4 @@
-"# Daily-Leetcode-Challenge: Rise of the Legacy" 
+"# Daily-Leetcode-Challenge: Fellowship of The Data Structures and Algorithms" 
 
 Eskilerden pek bir şey kalmadı, zira hatırlayanlardan yaşayan yok artık.
 
@@ -8,13 +8,13 @@ Her şey muhteşem soruların seçilmesiyle başladı..
 
 Yedisi mahir madenciler ve zanaatkarlar olan dağların derinliklerinde yaşayan Freelancer'lara..
 
-Dokuz yüzük varlıklar arasında güce en düşkün olan Bilgisayar Mühendisliği ırkına bahşedilmişti..
+Dokuz yüzük varlıklar arasında güce en düşkün olan Bilgisayar Mühendislerine bahşedilmişti..
 
 Bütün mülakatlara hükmedecek gücü muhafaza ediyordu bu sorular..
 
-Lakin hepsi kandırıldı Yapay Zeka'cılar, Bilgisayar Mühendisleri, Freelancer'cılar hepsi ama hepsi kandırıldı.
+Lakin hepsi kandırıldı Yapay Zeka'cılar, Bilgisayar Mühendisleri, Freelancer'lar hepsi ama hepsi kandırıldı.
 
-Silikon Vadisi'nde, Google binasının konferans salonlarında gizlice yazmıştı Karanlıklar Interviewer'ı, Hükmeden Soruyu..
+Silikon Vadisi'nde, Google binasının konferans salonlarında gizlice yazmıştı Interviewer, Hükmeden Soruyu..
 
 Stajyerlere hükmedebilmek için !
 
