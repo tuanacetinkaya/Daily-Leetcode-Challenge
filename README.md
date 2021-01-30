@@ -1,4 +1,4 @@
-"# Daily-Leetcode-Challenge: Fellowship of The Data Structures and Algorithms" 
+# Fellowship of The Data Structures and Algorithms
 
 Eskilerden pek bir şey kalmadı, zira hatırlayanlardan yaşayan yok artık.
 
