@@ -4,10 +4,8 @@ public class Solution {
         for (int i = 0; i < board.Length ; i++){
             for(int j = 0; j < board[i].Length ; j++){
                 if (board[i][j] == 'X') {
-                    if (i < board.Length-1){
-                        if (board[i+1][j] == 'X')
-                            numberOfBattleships--;
-                    }   
+                    if (i < board.Length-1 && board[i+1][j] == 'X')
+                        numberOfBattleships--;
                     if (j == board[i].Length - 1)
                         numberOfBattleships++; 
                     else if (board[i][j+1] == '.')
