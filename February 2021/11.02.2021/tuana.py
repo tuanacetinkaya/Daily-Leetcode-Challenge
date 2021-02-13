@@ -6,4 +6,3 @@ class Solution:
                 transpose[j][i] = matrix[i][j]
 
         return transpose
-        
