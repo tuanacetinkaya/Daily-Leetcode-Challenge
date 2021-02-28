@@ -27,3 +27,8 @@ Hacettepeliler sorunun gücü karşısında birer birer düştüler. Ama karşı
 Çalışanlar ve çalışmaya çalışanlar arasındaki son ittifak güçleri CV Robotlarına karşı Online ortamda geleceklerinin hürriyeti için harp ettiler.
 
 Zafer yakındı, lâkin medium sorular bir türlü çözülemiyordu.
+
+## Useful Links for Question Selections
+
+Category Wise Dynamic Programming Questions
+- https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise
