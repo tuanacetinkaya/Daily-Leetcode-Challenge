@@ -8,6 +8,7 @@ public:
         for (auto x: um) {
             if (x.second == 2) {
                 ans.push_back(x.first);
+                break;
             }
         }
         for (int i=1; i<=nums.size(); i++) {
