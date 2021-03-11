@@ -13,6 +13,7 @@ class Solution {
             }
             
         }
+        
         if(dpArray[amount] == Integer.MAX_VALUE){
             return -1;
         }
